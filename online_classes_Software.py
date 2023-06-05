@@ -59,24 +59,3 @@ while True:
             print('cant exit without joining the class')
     else:
         print('invalied or unknown command')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-x=['abhi','anjali']
-i=input('name')
-if i in x:
-    print(i)
-    print(x[abhi])
-'''
